@@ -1,10 +1,9 @@
-namespace KAMM
+namespace KAMM;
+
+public partial class frmMain : Form
 {
-    public partial class frmMain : Form
+    public frmMain()
     {
-        public frmMain()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
     }
 }
